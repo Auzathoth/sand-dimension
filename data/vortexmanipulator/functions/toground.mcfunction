@@ -1,0 +1,1 @@
+execute at @s run spreadplayers ~ ~ 1 1 false @s
