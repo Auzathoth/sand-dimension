@@ -16,11 +16,6 @@
   "bedrock_floor_position": 0,
   "sea_level": 63,
   "structures": {
-    "stronghold": {
-      "distance": 32,
-      "spread": 3,
-      "count": 128
-    },
     "structures": {
       "minecraft:desert_pyramid": {
         "spacing": 32,
